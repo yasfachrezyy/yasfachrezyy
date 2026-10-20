@@ -1,6 +1,6 @@
 <!-- Header Animasi -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hello,%20I'm%20yasfachrezyy!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%20%7C%20IT%20Support&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hello,%20I'm%20yasfachrezyy!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI Engineer%20%7C%20IT%20Support&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+Web+%26+Mobile+Applications;Exploring+AI,+RAG,+%26+OCR;Optimizing+IT+Infrastructure" alt="Typing SVG" />
